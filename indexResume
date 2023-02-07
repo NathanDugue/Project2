@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+<style>
+{
+box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #d9dcd6;
+}
+
+.header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+}
+
+.header h1 {
+    display: inline-block;
+    font-size: 48px;
+
+
+}
+  <meta charset="UTF-8"/>
+  <link rel="stylesheet" href="./assets1/css/style.css">
+<title>Nathan Dugue</title>
+</style>
+</head>
+
+<body>
+<div class="header">
+<div>
+<h1>Nathan Dugue </h1>
+<ul>
+<li> 
+    <a href="#aboutme">About Me</a>
+</li>
+<li>
+    <a href="#Occupation">Occupation</a>
+</li>
+<li> 
+    <a href="#contactinformation">Contact Information</a>
+</li>
+<li>
+    <a href= "#resume">Resume</a>
+    </li>
+</ul>
+	</div>
+</div>
+
+
+
+<div class="subtitle">
+    <h2>My perfect portfolio for this position.</h2>
+</div>
+
+<div class="content">
+    
+<div class="about-me">
+
+<h2>About Me</h2>
+<p> 
+    I have python, html, and adobe learning. I have worked parttime and fulltime positions at Crunch Fitness, FedEx,
+and also Marshall's. I have spent almost 3-5 months at each company during my employment. My skills contain communication,
+database information, and knowledge of packing and shippment. 
+</p>
+</div>
+
+<div id="work" class="work-around">
+    <h3>Work</h3>
+    <div class="company-logic"
+>
+<div class="company1">
+    <h4>Crunch Fitness</h4>
+<a href="https://www.crunch.com/" >Crunch Fitness</a>
+</div>
+<div class="company2">
+    <h4>FedEx</h4>
+<a href="https://www.fedex.com/global/choose-location.html">FexEx</a>
+</div>
+<div class="company3">
+    <h4>Marshall's</h4>
+<a href="https://www.marshalls.com/us/store/index.jsp" >Marshall's</a>
+</div>
+
+<div class="footer">
+        <h2>Contact Me</h2>
+        <p>
+            Phone: 917-291-6935         Email:nathandugue@outlook.com
+        </p>
+    </div>
+</body>
+
+</html>
